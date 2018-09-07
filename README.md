@@ -1,37 +1,79 @@
-## Welcome to GitHub Pages
+## Julia ranking trend, TIOBE, RedMonk (updated: Sep 7, 2018)
 
-You can use the [editor on GitHub](https://github.com/juliatrend/website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I collect some historical data of the Julia language ranking after it first enters Top-50 in Sep, 2016. Hope It could be helpful to understand the popularity of Julia. (Data complement and correction are welcome )
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Part 1: TIOBE Rank
 
-### Markdown
+| Month                 | Rank                | Ratings             |   Important Event    |    Note                             |
+| ---------------------  |:---------------:  | :----------------: | :-----------------:  | :-------------------------------- |
+| Sep, 2016            | 47                 |   0.196%       |  Release V0.5  | First time entering Top50 |
+| Jun, 2017           | --                    |   --                 |  Release V0.6  |    |
+| Nov, 2017           | --                    |   0.600%       |       |   |
+| Dec, 2017           | 47                  |   0.439%       |   |  |
+| Jan, 2018            | 47                  |   0.226%       |   |    |
+| Feb, 2018           | 50                   |   0.189%      |   |  |
+| Mar, 2018           | **37**              |   0.301%      |   | **Highest rank** |
+| Mar, 2018           | **37**              |   0.301%      |   | **Highest rank till now** |
+| Apr, 2018           | 44                    |   0.195%      |   |    |
+| May, 2018          | 46                    |   0.342%      |    |    |
+| Jun, 2018           | 43                    |   0.281%     |    |    |
+| Apr, 2018           | 44                    |   0.195%      |   |    |
+| May, 2018          | 46                    |   0.342%      |    |    |
+| Jun, 2018           | 43                    |   0.281%     |    |    |
+| Jul, 2018            | >50                  |   --               |    |    |
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+| Jul, 2018            | >50                  |   --               |    |    |
+| Aug, 2018            | 50                |   0.156        |    |    |
 
-```markdown
-Syntax highlighted code block
+As the marketing/percentage of Julia is still small, the ranking would not be so robust and fluctuation is normal.
 
-# Header 1
-## Header 2
-### Header 3
+The ranking and rating value graphs are as follows.
+![TIOBE_rank|690x459](upload://cdoLV876usGl6V9VYOlt038G9CZ.png)
+Figure 1 Julia Ranking (TIOBE)
 
-- Bulleted
-- List
+![TIOBE_index|690x470](upload://sDNqHRgVnP74hyoBTwxno6OTBDN.png)
+Figure 2 Julia rating value (TIOBE)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Part 2: RedMonk Rank
+The following table show the Julia Rank in RedMonk.
+| Quater                 | Rank                |   Important Event    |  Note    |
+| ---------------------  |:---------------:  | :-----------------:  | :-----------------:  |
+|  2014-Q1            | 62                 |                         |   |   
+|  2014-Q2            | 57                 |                         |    |   
+|  2015-Q1            | 56                 |                         |   |   
+|  2015-Q2            | 52                 |                         |    |   
+|  2016-Q1            | 51                 |                         |   |   
+|  2016-Q2            | 52                 |                         |     |   
+|  2017-Q1            |  ?                 |                         |   Data not found |   
+|  2017-Q2            |  ?                 |                         |   Data not found  |   
+|  2018-Q1            |  ?                 |                         |    Data not found |   
 
-[Link](url) and ![Image](src)
-```
+![ooo|690x460](upload://cx3OknAV4gEkJ1WEkVPHYIHsUFM.PNG)
+Figure 3 Popularity trend according to GitHub and Stack Overflow
+(Noted: the data is measured manually from the following figures from RedMonk. )
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/juliatrend/website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Part 3: Report from RedMonk
+![2013-1|600x500](upload://gbOZsZ9yUqUCkc0NvV8AUnWW2lM.png)
+(a) 2013 - January
+![2013-2|600x500](upload://lonqfgNooYiMqt2LYe0o5UCwroD.png)
+(b) 2013 - July
+![2014-1|600x500](upload://5Yug7FrEx8IDtSRyWoCu97WY9xD.png)
+(c) 2014 - January
+![2014-2|600x500](upload://kRqicqsqcP0Yqq1mNt5S2xhFSG6.png)
+(d) 2014 - July
+![2015-1|600x500](upload://tcy6citRy46exleJZKPPQvds9y3.png)
+(e) 2015 - January
+![2015-2|600x500](upload://6abhOPIVTlcnTREZ6n2y7Es2Vbo.png)
+(f) 2015 - July
+![2016-1|600x500](upload://45H7XWtA9Rfgz16E09YT1ZrPeNk.png)
+(g) 2016 - January
+![2016-2|600x500](upload://qfRzlCqSqN5X4GfYTyUglRdBV9Q.png)
+(h) 2016 - July
+![2017-1|600x500](upload://dUYPnHZ7IKufWnV8gnUmQ3OcLq4.png)
+(i) 2017 - January
+![2017-2|600x500](upload://f6ou4uyCEx7DTxB2nMTV30aMIFl.png)
+(j) 2017 - July
+![2018-1|600x500](upload://r3clz1tKVlLR7HkSUq8vpKkppQS.png)
+(k) 2018 - January
+Figure 3 The graph of the ranking from 2014 (RedMonk)
