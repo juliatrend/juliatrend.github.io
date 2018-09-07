@@ -2,7 +2,7 @@
 
 I collect some historical data of the Julia language ranking after it first enters Top-50 in Sep, 2016. Hope It could be helpful to understand the popularity of Julia. (Data complement and correction are welcome )
 
-### ->Part 1: TIOBE Rank<-
+### Part 1: TIOBE Rank
 
 | Month                 | Rank                | Ratings             |   Important Event    |    Note                             |
 | ---------------------  |:---------------:  | :----------------: | :-----------------:  | :-------------------------------- |
@@ -53,7 +53,7 @@ The following table show the Julia Rank in RedMonk.
 Figure 3 Popularity trend according to GitHub and Stack Overflow
 (Noted: the data is measured manually from the following figures from RedMonk. )
 
-### ->Part 3: Report from RedMonk<-
+### Part 3: Report from RedMonk
 ![2013-1|600x500](/figure/13-Jan.png)
 
 (a) 2013 - January
