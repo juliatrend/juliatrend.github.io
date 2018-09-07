@@ -28,10 +28,10 @@ I collect some historical data of the Julia language ranking after it first ente
 As the marketing/percentage of Julia is still small, the ranking would not be so robust and fluctuation is normal.
 
 The ranking and rating value graphs are as follows.
-![TIOBE_rank|690x459](upload://cdoLV876usGl6V9VYOlt038G9CZ.png)
+![TIOBE_rank|690x459](/figure/f1.png)
 Figure 1 Julia Ranking (TIOBE)
 
-![TIOBE_index|690x470](upload://sDNqHRgVnP74hyoBTwxno6OTBDN.png)
+![TIOBE_index|690x470](/figure/f2.png)
 Figure 2 Julia rating value (TIOBE)
 
 
@@ -49,7 +49,7 @@ The following table show the Julia Rank in RedMonk.
 |  2017-Q2            |  ?                 |                         |   Data not found  |   
 |  2018-Q1            |  ?                 |                         |    Data not found |   
 
-![ooo|690x460](upload://cx3OknAV4gEkJ1WEkVPHYIHsUFM.PNG)
+![ooo|690x460](/figure/f3.PNG)
 Figure 3 Popularity trend according to GitHub and Stack Overflow
 (Noted: the data is measured manually from the following figures from RedMonk. )
 
