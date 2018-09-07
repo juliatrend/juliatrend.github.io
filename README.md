@@ -54,48 +54,37 @@ Figure 3 Popularity trend according to GitHub and Stack Overflow
 (Noted: the data is measured manually from the following figures from RedMonk. )
 
 ### Part 3: Report from RedMonk
-![2013-1|600x500](/figure/13-Jan.png)
-
+![2013-1|600x500](/figure/13-Jan.png)  <br>
 (a) 2013 - January
 
 ![2013-2|600x500](/figure/13-Jul.png)
-
 (b) 2013 - July
 
 ![2014-1|600x500](/figure/14-Jan.png)
-
 (c) 2014 - January
 
 ![2014-2|600x500](/figure/14-Jul.png)
-
 (d) 2014 - July
 
 ![2015-1|600x500](/figure/15-Jan.png)
-
 (e) 2015 - January
 
 ![2015-2|600x500](/figure/15-Jul.png)
-
 (f) 2015 - July
 
 ![2016-1|600x500](/figure/16-Jan.png)
-
 (g) 2016 - January
 
 ![2016-2|600x500](/figure/16-Jul.png)
-
 (h) 2016 - July
 
 ![2017-1|600x500](/figure/17-Jan.png)
-
 (i) 2017 - January
 
-![2017-2|600x500](/figure/17-Jul.png)
-
+![2017-2|600x500](/figure/17-Jul.png)  <br>
 (j) 2017 - July
 
-![2018-1|600x500](/figure/18-Jan.png)
-
+![2018-1|600x500](/figure/18-Jan.png)  <br>
 (k) 2018 - January
 
 Figure 3 The graph of the ranking from 2014 (RedMonk)
