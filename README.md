@@ -6,14 +6,18 @@ Abstract:
 
 Keywords: Julia language, TIOBE, RedMonk
 
-##1. Introduction
+## 1. Introduction
+
 I collect some historical data of the Julia language ranking after it first enters Top-50 in Sep, 2016. Hope It could be helpful to understand the popularity of Julia. (Data complement and correction are welcome )
 
-##2.Language popularity trend
+## 2.Language popularity trend
+
 There are many websites/orgnizations rank the popularity of the programing languages according to different indexes and evaluation methods. TIOBE and RedMonk are two of the popular websites, which are selected as the data source to show the popularity trend of Julia.
-##2.1 Trend according to TIOBE
+
+## 2.1 Trend according to TIOBE
 
 Table 1. Julia rank and rating value from Sep 2016
+
 | Month                 | Rank                | Ratings             |   Important Event    |    Note                             |
 | ---------------------  |:---------------:  | :----------------: | :-----------------:  | :-------------------------------- |
 | Sep, 2016           | 47                    |   0.196%      |  Release V0.5  | First time entering Top50 |
@@ -62,13 +66,16 @@ The following table show the Julia Rank in RedMonk.
 Figure 3 Popularity trend according to GitHub and Stack Overflow
 (Noted: the data is measured manually from the following figures from RedMonk. )
 
-###3 Package trend
-![ooo|690x460](/figure/f4.PNG) <br>
-###4 Conclusions
+### 3 Package trend
 
-###Reference
+![ooo|690x460](/figure/f4.PNG) <br>
+
+### 4 Conclusions
+
+### Reference
 
 ### Appendix A. Report from RedMonk
+
 ![2013-1|600x500](/figure/13-Jan.png)  <br>
 (a) 2013 - January
 
