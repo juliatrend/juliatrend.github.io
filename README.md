@@ -40,10 +40,10 @@ Table 1. Julia rank and rating value from Sep 2016
 As the marketing/percentage of Julia is still small, the ranking would not be so robust and fluctuation is normal.
 
 The ranking and rating value graphs are as follows.
-![TIOBE_rank|690x459](/figure/f1.png)  <br>
+![TIOBE_rank|690x459](/figure/f1.PNG)  <br>
 Figure 1 Julia Ranking (TIOBE)
 
-![TIOBE_index|690x470](/figure/f2.png) <br>
+![TIOBE_index|690x470](/figure/f2.PNG) <br>
 Figure 2 Julia rating value (TIOBE)
 
 
