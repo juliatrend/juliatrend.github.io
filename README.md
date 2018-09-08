@@ -10,7 +10,7 @@ Keywords: Julia language, TIOBE, RedMonk
 
 I collect some historical data of the Julia language ranking after it first enters Top-50 in Sep, 2016. Hope It could be helpful to understand the popularity of Julia. (Data complement and correction are welcome )
 
-## 2.Language popularity trend
+## 2. Language popularity trend
 
 There are many websites/orgnizations rank the popularity of the programing languages according to different indexes and evaluation methods. TIOBE and RedMonk are two of the popular websites, which are selected as the data source to show the popularity trend of Julia.
 
