@@ -1,28 +1,37 @@
-## Julia ranking trend, TIOBE, RedMonk (updated: Sep 7, 2018)
+# Julia Language Ranking Trend
+(Updated: Sep 8, 2018; Translations: Simplified Chinese)
+Author: Liye Zhang
 
+Abstract:
+
+Keywords: Julia language, TIOBE, RedMonk
+
+##1. Introduction
 I collect some historical data of the Julia language ranking after it first enters Top-50 in Sep, 2016. Hope It could be helpful to understand the popularity of Julia. (Data complement and correction are welcome )
 
-### Part 1: TIOBE Rank
+##2.Language popularity trend
+There are many websites/orgnizations rank the popularity of the programing languages according to different indexes and evaluation methods. TIOBE and RedMonk are two of the popular websites, which are selected as the data source to show the popularity trend of Julia.
+##2.1 Trend according to TIOBE
 
+Table 1. Julia rank and rating value from Sep 2016
 | Month                 | Rank                | Ratings             |   Important Event    |    Note                             |
 | ---------------------  |:---------------:  | :----------------: | :-----------------:  | :-------------------------------- |
-| Sep, 2016            | 47                 |   0.196%       |  Release V0.5  | First time entering Top50 |
-| Jun, 2017           | --                    |   --         |  Release V0.6  |    |
-| Nov, 2017           | --                    |   0.600%     |   |   |
-| Dec, 2017           | 47                   |   0.439%       |   |   |
-| Jan, 2018            | 47                  |   0.226%      |   |   |
-| Feb, 2018           | 50                   |   0.189%      |   |   |
-| Mar, 2018           | **37**              |   0.301%       |   | **Highest rank**          |
-| Mar, 2018           | **37**              |   0.301%       |   | **Highest rank till now** |
-| Apr, 2018           | 44                    |   0.195%     |   |    |
-| May, 2018          | 46                    |   0.342%      |   |    |
-| Jun, 2018           | 43                    |   0.281%     |   |    |
-| Apr, 2018           | 44                    |   0.195%     |   |    |
-| May, 2018           | 46                    |   0.342%     |   |    |
-| Jun, 2018           | 43                    |   0.281%     |   |    |
-| Jul, 2018           | >50                   |   --         |   |    |
-| Aug, 2018           | 50                    |   0.156      | Release V1.0  |    |
-| Sep, 2018           | 39                    |   0.242      |   |    |
+| Sep, 2016           | 47                    |   0.196%      |  Release V0.5  | First time entering Top50 |
+| Jun, 2017           | --                    |   --          |  Release V0.6  |    |
+| Nov, 2017           | --                    |   0.600%      |   |   |
+| Dec, 2017           | 47                    |   0.439%      |   |   |
+| Jan, 2018           | 47                    |   0.226%      |   |   |
+| Feb, 2018           | 50                    |   0.189%      |   |   |
+| Mar, 2018           | **37**                |   0.301%      |   | **Highest rank till now** |
+| Apr, 2018           | 44                    |   0.195%      |   |    |
+| May, 2018           | 46                    |   0.342%      |   |    |
+| Jun, 2018           | 43                    |   0.281%      |   |    |
+| Apr, 2018           | 44                    |   0.195%      |   |    |
+| May, 2018           | 46                    |   0.342%      |   |    |
+| Jun, 2018           | 43                    |   0.281%      |   |    |
+| Jul, 2018           | >50                   |   --          |   |    |
+| Aug, 2018           | 50                    |   0.156       | Release V1.0  |    |
+| Sep, 2018           | 39                    |   0.242       |   |    |
 
 As the marketing/percentage of Julia is still small, the ranking would not be so robust and fluctuation is normal.
 
@@ -34,7 +43,7 @@ Figure 1 Julia Ranking (TIOBE)
 Figure 2 Julia rating value (TIOBE)
 
 
-### Part 2: RedMonk Rank
+### 2.2 RedMonk Rank
 The following table show the Julia Rank in RedMonk.
 
 | Quater                 | Rank                |   Important Event    |  Note                |
@@ -53,7 +62,13 @@ The following table show the Julia Rank in RedMonk.
 Figure 3 Popularity trend according to GitHub and Stack Overflow
 (Noted: the data is measured manually from the following figures from RedMonk. )
 
-### Part 3: Report from RedMonk
+###3 Package trend
+![ooo|690x460](/figure/f4.PNG) <br>
+###4 Conclusions
+
+###Reference
+
+### Appendix A. Report from RedMonk
 ![2013-1|600x500](/figure/13-Jan.png)  <br>
 (a) 2013 - January
 
