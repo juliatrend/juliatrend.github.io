@@ -8,13 +8,17 @@ Keywords: Julia language, TIOBE, RedMonk
 
 ## 1. Introduction
 
-I collect some historical data of the Julia language ranking after it first enters Top-50 in Sep, 2016. Hope It could be helpful to understand the popularity of Julia. (Data complement and correction are welcome )
+Julia is a high-level general-purpose dynamic programming language that was originally designed to address the needs of high-performance numerical analysis and computational science, without the typical need of separate compilation to be fast,also usable for client and server web use, low-level systems programming or as a specification language.
 
-## 2. Language popularity trend
+Work on Julia was started in 2009, by Jeff Bezanson, Stefan Karpinski, Viral B. Shah, and Alan Edelman who set out to create a free language that was both high-level and fast. On 14 February 2012 the team launched a website with a blog post explaining the language's mission. Julia 1.0, the first longterm stable version, was released on 8 August 2018.
+
+Since 2012, the user number and package number keep on increasing. In order to gave an overview of the popularity the trend, we collect the historical data of the language ranking after it first enters Top-50 in Sep, 2016. Hope It could be helpful the users to understand the popularity of Julia and Data complement and correction are welcome
+
+## 2. Language Popularity Trend
 
 There are many websites/orgnizations rank the popularity of the programing languages according to different indexes and evaluation methods. TIOBE and RedMonk are two of the popular websites, which are selected as the data source to show the popularity trend of Julia.
 
-## 2.1 Trend according to TIOBE
+## 2.1 Trend According to TIOBE
 
 Table 1. Julia rank and rating value from Sep 2016
 
@@ -66,7 +70,7 @@ The following table show the Julia Rank in RedMonk.
 Figure 3 Popularity trend according to GitHub and Stack Overflow
 (Noted: the data is measured manually from the following figures from RedMonk. )
 
-### 3 Package trend
+### 3 Package Trend
 
 ![ooo|690x460](/figure/f4.PNG) <br>
 
