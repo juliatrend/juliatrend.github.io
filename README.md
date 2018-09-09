@@ -8,7 +8,11 @@ Keywords: Julia language, TIOBE, RedMonk
 
 ## 1. Introduction
 
-I collect some historical data of the Julia language ranking after it first enters Top-50 in Sep, 2016. Hope It could be helpful to understand the popularity of Julia. (Data complement and correction are welcome )
+Julia is a high-level general-purpose dynamic programming language that was originally designed to address the needs of high-performance numerical analysis and computational science, without the typical need of separate compilation to be fast,also usable for client and server web use, low-level systems programming or as a specification language.
+
+Work on Julia was started in 2009, by Jeff Bezanson, Stefan Karpinski, Viral B. Shah, and Alan Edelman who set out to create a free language that was both high-level and fast. On 14 February 2012 the team launched a website with a blog post explaining the language's mission. Julia 1.0, the first longterm stable version, was released on 8 August 2018.
+
+Since 2012, the user number and package number keep on increasing. In order to gave an overview of the popularity the trend, we collect the historical data of the language ranking after it first enters Top-50 in Sep, 2016. Hope It could be helpful the users to understand the popularity of Julia. (Data complement and correction are welcome )
 
 ## 2. Language popularity trend
 
