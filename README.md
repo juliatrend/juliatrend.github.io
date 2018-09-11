@@ -65,9 +65,10 @@ The following table show the Julia Rank in RedMonk.
 
 ![ooo|690x460](/figure/f3.PNG) <br>
 Figure 3 Popularity trend according to GitHub and Stack Overflow
-(Noted: the data is measured manually from the following figures from RedMonk. )
+(Noted: the data is measured manually from the following figures from RedMonk.)
 
 ### 3 Package Trend
+
 
 ![ooo|690x460](/figure/f4.PNG) <br>
 
