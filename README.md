@@ -1,6 +1,5 @@
-# Julia Language Ranking Trend
+#<center>Julia Language Ranking Trend</center>
 (Updated: Sep 8, 2018) <br>
-Author: Liye Zhang
 
 **Abstract**: According to TIOBE, Julia entered into the Top-50 list in September 2016 for the first time and climbed to the highest rank of 37 in March 2018. *The latest rank is 39 in September 2018*.
 
@@ -42,7 +41,7 @@ Table 1. Julia rank and rating value from Sep 2016
 As the marketing/percentage of Julia is still small, the ranking would not be so robust and fluctuation is normal.
 
 The ranking and rating value graphs are as follows.
-![TIOBE_rank|690x459](/figure/f1.PNG)  <br>
+![TIOBE_rank|690x459](/figure/f1.PNG) <br>
 Figure 1 Julia Ranking (TIOBE)
 
 ![TIOBE_index|690x470](/figure/f2.PNG) <br>
@@ -112,3 +111,6 @@ Figure 3 Popularity trend according to GitHub and Stack Overflow
 (k) 2018 - January
 
 Figure 3 The graph of the ranking from 2014 (RedMonk)
+
+### Appendix B. Authors and contributors
+Zhang Liye, 
