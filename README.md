@@ -1,14 +1,12 @@
 # Julia Language Ranking Trend
-(Updated: Sep 8, 2018; Translations: Simplified Chinese)
+(Updated: Sep 8, 2018) <br>
 Author: Liye Zhang
 
-Abstract:
-
-Keywords: Julia language, TIOBE, RedMonk
+**Abstract**: According to TIOBE, Julia entered into the Top-50 list in September 2016 for the first time and climbed to the highest rank of 37 in March 2018. *The latest rank is 39 in September 2018*.
 
 ## 1. Introduction
 
-Julia is a high-level general-purpose dynamic programming language that was originally designed to address the needs of high-performance numerical analysis and computational science, without the typical need of separate compilation to be fast,also usable for client and server web use, low-level systems programming or as a specification language.
+Julia is a high-level general-purpose dynamic programming language that was originally designed to address the needs of high-performance numerical analysis and computational science, without the typical need of separate compilation to be fast, also usable for client and server web use, low-level systems programming or as a specification language.
 
 Work on Julia was started in 2009, by Jeff Bezanson, Stefan Karpinski, Viral B. Shah, and Alan Edelman who set out to create a free language that was both high-level and fast. On 14 February 2012 the team launched a website with a blog post explaining the language's mission. Julia 1.0, the first longterm stable version, was released on 8 August 2018.
 
