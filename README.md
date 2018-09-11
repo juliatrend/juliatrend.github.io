@@ -69,7 +69,8 @@ Figure 3 Popularity trend according to GitHub and Stack Overflow
 (Noted: the data is measured manually from the following figures from RedMonk.)
 
 ### 3 Package Trend
-
+The historical package information is from Julia offical website: <br>
+[pkg.julialang.org](https://github.com/JuliaCI/pkg.julialang.org/tree/gh-pages/db/pkg.julialang.org/tree/gh-pages/db)
 
 ![ooo|690x460](/figure/f4.PNG) <br>
 
