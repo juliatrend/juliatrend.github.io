@@ -115,4 +115,4 @@ Figure 3 Popularity trend according to GitHub and Stack Overflow
 Figure 3 The graph of the ranking from 2014 (RedMonk)
 
 ### Appendix B. Authors and contributors
-Zhang Liye,
+Liye Zhang,
