@@ -1,7 +1,7 @@
 <center><h2>Julia Language Ranking Trend</h2></center>
 (Updated: Sep 8, 2018) <br>
 
-**Abstract**: According to TIOBE, Julia entered into the Top-50 list in September 2016 for the first time and climbed to the highest rank of 37 in March 2018. *The latest rank is 39 in September 2018*.
+**Abstract**: According to TIOBE, Julia entered into the Top-50 list in September 2016 for the first time and climbed to 37, the highest rank up to now, in March 2018. *The latest rank is 39 in September 2018*.
 
 ## 1. Introduction
 
