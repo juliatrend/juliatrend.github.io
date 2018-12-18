@@ -1,8 +1,6 @@
 <center><h2>Julia Language Ranking Trend</h2></center>
 (Updated: Sep 8, 2018) <br>
 [Welcome to edit/update](https://github.com/juliatrend/juliatrend.github.io) <br><br>
-<font size="2">Zhang Liye</font><br>
-
 
 **Abstract**: According to TIOBE, Julia entered into the Top-50 list in September 2016 for the first time and climbed to 37, the highest rank up to now, in March 2018. *The latest rank is 39 in September 2018*.
 
@@ -12,7 +10,7 @@ Julia is a high-level general-purpose dynamic programming language that was orig
 
 Work on Julia was started in 2009, by Jeff Bezanson, Stefan Karpinski, Viral B. Shah, and Alan Edelman who set out to create a free language that was both high-level and fast. On 14 February 2012 the team launched a website with a blog post explaining the language's mission. Julia 1.0, the first longterm stable version, was released on 8 August 2018.
 
-Since 2012, the user number and package number keep on increasing. In order to give an overview of the popularity trend, we collect the historical language-rank data from TIOBE and RedMonk, after it first enters Top-50 in Sep, 2016. Hope it could help the users to understand the popularity trend of Julia. Data complement and correction are welcomed.
+Since 2012, the user number and package number keep on increasing. In order to give an overview of the popularity the trend, we collect the historical language-rank data from TIOBE and RedMonk, after it first enters Top-50 in Sep, 2016. Hope it could be help the users to understand the popularity trend of Julia. Data complement and correction are welcomed.
 
 ## 2. Language Popularity Trend
 
@@ -40,6 +38,9 @@ Table 1. Julia rank and rating value from Sep 2016
 | Jul, 2018           | >50                   |   --          |   |    |
 | Aug, 2018           | 50                    |   0.156       | Release V1.0  |    |
 | Sep, 2018           | 39                    |   0.242       |   |    |
+| Oct, 2018           | 43                    |   0.191%      |   |    |
+| Nov, 2018           | 40                    |   0.230%       |   |    |
+| Dec, 2018           | 44                    |   0.188%       |   |    |
 
 As the marketing/percentage of Julia is still small, the ranking would not be so robust and fluctuation is normal.
 
@@ -71,8 +72,7 @@ Figure 3 Popularity trend according to GitHub and Stack Overflow
 (Noted: the data is measured manually from the following figures from RedMonk.)
 
 ### 3 Package Trend
-The historical package information is from Julia offical website: <br>
-[pkg.julialang.org](https://github.com/JuliaCI/pkg.julialang.org/tree/gh-pages/db)
+
 
 ![ooo|690x460](/figure/f4.PNG) <br>
 
@@ -117,4 +117,5 @@ The historical package information is from Julia offical website: <br>
 
 Figure 3 The graph of the ranking from 2014 (RedMonk)
 
-### Appendix B. Contributors
+### Appendix B. Authors and contributors
+Liye Zhang,
