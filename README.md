@@ -2,7 +2,7 @@
 (Updated: Sep 8, 2018) <br>
 [Welcome to edit/update](https://github.com/juliatrend/juliatrend.github.io) <br><br>
 
-**Abstract**: According to TIOBE, Julia entered into the Top-50 list in September 2016 for the first time and climbed to 37, the highest rank up to now, in March 2018. *The latest rank is 39 in September 2018*.
+**Abstract**: According to TIOBE, Julia entered into the Top-50 list in September 2016 for the first time and climbed to 37, the highest rank up to now, in March 2018. *The latest rank is 39 in January 2019*.
 
 ## 1. Introduction
 
@@ -41,6 +41,7 @@ Table 1. Julia rank and rating value from Sep 2016
 | Oct, 2018           | 43                    |   0.191%      |   |    |
 | Nov, 2018           | 40                    |   0.230%       |   |    |
 | Dec, 2018           | 44                    |   0.188%       |   |    |
+| Jan, 2019           | **37**                    |   0.296%       |   | **Highest rank till now**   |
 
 As the marketing/percentage of Julia is still small, the ranking would not be so robust and fluctuation is normal.
 
@@ -63,9 +64,13 @@ The following table show the Julia Rank in RedMonk.
 |  2015-Q2               | 52                  |                         |    |   
 |  2016-Q1               | 51                  |                         |    |   
 |  2016-Q2               | 52                  |                         |    |   
-|  2017-Q1               |  ?                  |                         |   Data not found  |   
-|  2017-Q2               |  ?                  |                         |   Data not found  |   
-|  2018-Q1               |  ?                  |                         |   Data not found  |   
+|  2017-Q1               |  52                  |                         |     |   
+|  2017-Q2               |  40                  |                         |     |   
+|  2018-Q1               |  39                  |                         |     |   
+|  2018-Q2               |  36                  |                         |     |
+
+![ooo|690x460](/figure/f5.PNG) <br>
+Figure Popularity trend according to RedMonk
 
 ![ooo|690x460](/figure/f3.PNG) <br>
 Figure 3 Popularity trend according to GitHub and Stack Overflow
