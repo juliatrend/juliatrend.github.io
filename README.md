@@ -14,7 +14,7 @@ Since 2012, the user number and package number keep on increasing. In order to g
 
 ## 2. Language Popularity Trend
 
-There are many websites/orgnizations rank the popularity of the programing languages according to different indexes and evaluation methods. TIOBE and RedMonk are two of the popular websites, which are selected as the data source to show the popularity trend of Julia.
+There are many websites/organizations rank the popularity of the programming languages according to different indexes and evaluation methods. TIOBE and RedMonk are two of the popular websites, which are selected as the data source to show the popularity trend of Julia.
 
 ## 2.1 Trend According to TIOBE
 
@@ -54,7 +54,7 @@ Figure 2 Julia rating value (TIOBE)
 
 
 ### 2.2 RedMonk Rank
-The following table show the Julia Rank in RedMonk.
+The following table shows the Julia Rank in RedMonk.
 
 | Quater                 | Rank                |   Important Event    |  Note                |
 | ---------------------  |:---------------:    | :-----------------:  | :-----------------:  |
